@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+.ttt{
+	
+	font-family: 'Assistant', sans-serif;
+	font-weight: 200!important;
+	font-size: 30px;
+	margin-left: 8px!important;
+}
+
+.main{
+	background-color: #D4E6FE;
+	height: 100vh!important;
+}
+.primary{
+	background-color: #E7E9FE!important;
+}
+.primaryg{
+	background-color: #DCE1FF!important;
+}
+.three{
+	background-color: #C7CDFD!important;
+}
+.four{
+	background-color: #A5B1FD!important;
+}
+.btn{
+	border-radius: 27px!important;
+	background-color: #233BF5!important;
+}
+.text{
+	color: #76DCC5;
+}
+
+::-webkit-input-placeholder{
+	color: blue!important;
+	padding-left: 10px!important;
+
+}
